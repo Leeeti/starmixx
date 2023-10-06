@@ -1,1 +1,16 @@
-# starmixx
+<html>
+  <head>
+    <title>primeiro site do 1c</title>
+  </head>
+  <style>
+    body{
+      background-color:blue;
+      }
+   </style> 
+  <body>
+    <fieldset>
+      <legend>CADASTRAR</legend>
+      <input type="text" placeholder="usuario">
+    </fieldset>
+  </body>
+</html>
