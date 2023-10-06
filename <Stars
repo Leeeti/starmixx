@@ -1,7 +1,17 @@
 <html>
-   <head>
-        <tiltle>StarMix</title>
-    </head>
+  <head>
+    <title>Seja bem vindo <3</title>
+  </head>
+  <body>
+<style>
+     body{
+background-color:blue;
+}
+</style>
 <body>
-<p>Seja Bem Vindo <3</p>
-</body>
+    <fieldset>
+      <legend>CADASTRAR</legend>
+      <input type="text" placeholder="usuario">
+    </fieldset>
+  </body>
+</html>
