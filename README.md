@@ -4,13 +4,13 @@
   </head>
   <style>
     body{
-      background-color:blue;
+      background-color:#00FFFF;
       }
    </style> 
   <body>
     <fieldset>
       <legend>CADASTRAR</legend>
-      <input type="text" placeholder="usuario">
+      <p>usuário:</p><input type="text" placeholder="usuario">
     </fieldset>
   </body>
 </html>
