@@ -10,11 +10,22 @@
   <body>
     <fieldset>
       <legend>CADASTRAR</legend>
-      <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
-      <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
-      <p></p>
-      <p></p>
-      <p></p>
+      
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+    
+      <p>🐾</p>
+      <p>🐾</p>
+      <p>🐾</p>
+      
       <select>
         <option>Gatos</option>
         <option>Cachorros</option>
