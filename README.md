@@ -1,16 +1,45 @@
 <html>
   <head>
-    <title>primeiro site do 1c</title>
+    <title>Seja bem vindo <3</title>
   </head>
   <style>
     body{
       background-color:#00FFFF;
-      }
-   </style> 
+    }
+  </style>
   <body>
     <fieldset>
       <legend>CADASTRAR</legend>
-      <p>usuário:</p><input type="text" placeholder="usuario">
+      <p>USUARIO:</p><input type="text" placeholder="usuario"><br><br>
+      <p>SENHA:</p><input type="password" placeholder="senha"><br><br>
+      <p></p>
+      <p></p>
+      <p></p>
+      <select>
+        <option>Gatos</option>
+        <option>Cachorros</option>
+        <option>Coelhos</option>
+      </select>
+      
     </fieldset>
+    <fieldset>
+      <legend></legend>
+      
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+    
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+    
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+    
+     </fieldset>
+    <fieldset>
+      <legend></legend>
+      
   </body>
 </html>
