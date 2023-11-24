@@ -52,10 +52,11 @@
     <fieldset>
       <legend></legend>
        </fieldset>
-       <a href="">instagram</a>
+       <a href="https://www.instagram.com/">instagram</a>
        <a href="https://www.youtube.com/">youtube</a>
-       <a href="">twitter/x</a>
-       <a href="">facebook</a>
+       <a href="https://twitter.com/login?lang=pt">twitter/x</a>
+       <a href="https://www.facebook.com/">facebook</a>
+       <input type="date" min="2018-01-01
   </body>
   
 </html>
